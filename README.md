@@ -1,7 +1,7 @@
  - [Objetivo deste documento](https://github.com/felipedspereira/configuracao-kubernetes#objetivo-deste-documento)<br>
  - [O que será construído](https://github.com/felipedspereira/configuracao-kubernetes#o-que-ser%C3%A1-constru%C3%ADdo)<br>
  - [Softwares utilizados e suas versões](https://github.com/felipedspereira/configuracao-kubernetes#softwares-utilizados-e-suas-vers%C3%B5es)<br>
- - [Material de apoio](https://github.com/felipedspereira/configuracao-kubernetes#material-de-apoio)<br>
+ - [Material de apoio](https://github.com/felipedspereira/configuracao-kubernetes#material-de-apoio-referencia-bibliogr%C3%A1fica)<br>
  - [Instruções de instalação](https://github.com/felipedspereira/configuracao-kubernetes#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)<br>
  - [Configuração do Registry Customizado](https://github.com/felipedspereira/configuracao-kubernetes#3-configura%C3%A7%C3%A3o-do-registry-customizado)<br>
  - [Destruição/reseting do cluster](https://github.com/felipedspereira/configuracao-kubernetes#destrui%C3%A7%C3%A3o-do-cluster)<br>
