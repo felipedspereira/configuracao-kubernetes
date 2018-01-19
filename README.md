@@ -1,10 +1,10 @@
- [Objetivo deste documento](http://git.prodam.am.gov.br/dides/kubernetes-docs#objetivo-deste-documento)<br>
- [O que será construído](http://git.prodam.am.gov.br/dides/kubernetes-docs#o-que-ser%C3%A1-constru%C3%ADdo)<br>
- [Softwares utilizados e suas versões](http://git.prodam.am.gov.br/dides/kubernetes-docs#softwares-utilizados-e-suas-vers%C3%B5es)<br>
- [Material de apoio](http://git.prodam.am.gov.br/dides/kubernetes-docs#material-de-apoio)<br>
- [Instruções de instalação](http://git.prodam.am.gov.br/dides/kubernetes-docs#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)<br>
- [Configuração do Registry Customizado](http://git.prodam.am.gov.br/dides/kubernetes-docs#3-configura%C3%A7%C3%A3o-do-registry-customizado)<br>
- [Destruição/reseting do cluster](http://git.prodam.am.gov.br/dides/kubernetes-docs#destrui%C3%A7%C3%A3o-do-cluster)<br>
+ - [Objetivo deste documento](http://git.prodam.am.gov.br/dides/kubernetes-docs#objetivo-deste-documento)<br>
+ - [O que será construído](http://git.prodam.am.gov.br/dides/kubernetes-docs#o-que-ser%C3%A1-constru%C3%ADdo)<br>
+ - [Softwares utilizados e suas versões](http://git.prodam.am.gov.br/dides/kubernetes-docs#softwares-utilizados-e-suas-vers%C3%B5es)<br>
+ - [Material de apoio](http://git.prodam.am.gov.br/dides/kubernetes-docs#material-de-apoio)<br>
+ - [Instruções de instalação](http://git.prodam.am.gov.br/dides/kubernetes-docs#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)<br>
+ - [Configuração do Registry Customizado](http://git.prodam.am.gov.br/dides/kubernetes-docs#3-configura%C3%A7%C3%A3o-do-registry-customizado)<br>
+ - [Destruição/reseting do cluster](http://git.prodam.am.gov.br/dides/kubernetes-docs#destrui%C3%A7%C3%A3o-do-cluster)<br>
 
 # Objetivo deste documento
 Este documento visa documentar a instalação e configuração de um cluster Kubernetes usando duas VM's no Virtualbox. Uma das VM's (denominada kubermaster) será o nó master do cluster, enquanto a outa VM (denominada kubeminion01) representará o nó slave (ou minion) o qual será responsável por executar os PODs do kubernetes.
