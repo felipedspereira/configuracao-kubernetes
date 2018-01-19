@@ -4,7 +4,7 @@
  - [Material de apoio](https://github.com/felipedspereira/configuracao-kubernetes#material-de-apoio-referencia-bibliogr%C3%A1fica)<br>
  - [Instruções de instalação](https://github.com/felipedspereira/configuracao-kubernetes#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o)<br>
  - [Configuração do Registry Customizado](https://github.com/felipedspereira/configuracao-kubernetes#3-configura%C3%A7%C3%A3o-do-registry-customizado)<br>
- - [Destruição/reseting do cluster](https://github.com/felipedspereira/configuracao-kubernetes#destrui%C3%A7%C3%A3o-do-cluster)<br>
+ - [Destruição/reseting do cluster](https://github.com/felipedspereira/configuracao-kubernetes#4-destrui%C3%A7%C3%A3o-do-cluster)<br>
 
 # Objetivo deste documento
 Este documento visa documentar a instalação e configuração de um cluster Kubernetes usando duas VM's no Virtualbox. Uma das VM's (denominada kubermaster) será o nó master do cluster, enquanto a outa VM (denominada kubeminion01) representará o nó slave (ou minion) o qual será responsável por executar os PODs do kubernetes.
