@@ -222,4 +222,4 @@ spec:
  
  
 ## 4. Destruição do cluster
- Caso ocorra alguma falha durante a execução de um dos passos descritos na seção 2 deste documento (instalação do kubernetes), você pode facilmente resetar o cluster ao seu estado original e refazer os passos desde o item 2.1. Para isso, você deve seguir as instruções que constam [nesta seção da documentação do kubernetes](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#tear-down).
+ Caso ocorra alguma falha durante a execução de um dos passos descritos na seção 2 deste documento (instalação do kubernetes), você pode facilmente resetar o cluster ao seu estado original e refazer os passos desde o item 2.1. Para isso, você deve seguir as instruções que constam [nesta seção da documentação do kubernetes (Tear Down)](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#tear-down).
