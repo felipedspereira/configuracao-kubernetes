@@ -109,7 +109,7 @@ swapoff -a
  2. Execução do comando ```kubeadm init```, [descrita na seção 2/4 deste link](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#instructions);
  3. Configuração do kubectl para ser acessível sem usuário root
  4. [Instalação da network das POD's](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#pod-network);
- 5. [Realização do *join* dos nós minios para juntá-los no cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#44-joining-your-nodes).
+ 5. [Realização de *join* dos minions para juntá-los ao cluster](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/#44-joining-your-nodes).
 
 #### 2.1 Instalação do kubeadm, kubectl e kubelet
  Para realizar a instalação destas ferramentas, a [documentação oficial do kubernetes](https://kubernetes.io/docs/setup/independent/install-kubeadm/#installing-kubeadm-kubelet-and-kubectl) pode ser seguida na íntegra.
